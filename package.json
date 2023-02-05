@@ -1,0 +1,22 @@
+{
+  "name": "shree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasadpatil1123/Shree.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prasadpatil1123/Shree/issues"
+  },
+  "homepage": "https://github.com/prasadpatil1123/Shree#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
